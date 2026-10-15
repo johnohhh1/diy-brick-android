@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DIY Brick</string>
+    <string name="tap_card">Tap an NFC card to register or trigger</string>
+    <string name="unknown_card">Unknown card — tap a button below to register</string>
+    <string name="card_registered">Card registered: %s</string>
+    <string name="known_card_exec">Executing: %s</string>
+    <string name="last_scan_format">UID: %s\nTech: %s</string>
+</resources>
